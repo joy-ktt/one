@@ -830,6 +830,7 @@
            
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
              <h5>Fashion of the century</h5>
+             <h6>Designed by Tarun</h6>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
