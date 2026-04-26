@@ -826,9 +826,9 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Trendy Collection 2026</h1>
-            <h3>Designed by Tarun</h3>
-            <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
+            <h1>Fashion of the century</h1>
+            <h3>Designed by Tarun kumar</h3>
+            <p>Discover the latest trends in fashion, technology and accessories with up to 30% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
