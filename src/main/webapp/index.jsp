@@ -826,11 +826,12 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summer Fashion Collection</h1>
+            <h1>Winder TrendyFashion Collection</h1>
             <h5>Fashion of the century</h5>
-            <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
-             
              <h6>Designed by Tarun</h6>
+            <p>Discover the latest trends in fashion, technology and accessories with up to 30% off selected items</p>
+             
+            
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
@@ -841,7 +842,7 @@
     <!-- Categories Section -->
     <section class="container">
         <div class="section-title">
-            <h2>Shop by Category</h2>
+            <h2>search by Category</h2>
             <p>Browse through our wide range of products in different categories</p>
         </div>
         
