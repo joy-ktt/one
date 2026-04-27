@@ -826,11 +826,11 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Winder TrendyFashion Collection</h1>
-            <h5>Fashion of the century</h5>
-             <h6>Designed by Tarun</h6>
-            <p>Discover the latest trends in fashion, technology and accessories with up to 30% off selected items</p>
+            <h1>Winter Trendy Fashion Collection</h1>
+            <h5>Fashion of the Year</h5>
              
+            <p>Discover the latest trends in fashion, technology and accessories with up to 30% off selected items</p>
+             <h6>Designed by great Tarun Kumar</h6>
             
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
